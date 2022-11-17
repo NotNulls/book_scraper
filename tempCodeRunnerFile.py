@@ -1,1 +1,2 @@
-str(search_input.text)
+print(s.text.strip(" "))
+# print('-----------')

@@ -1,2 +1,1 @@
-print(s.text.strip(" "))
-# print('-----------')
+title,author,price[1]

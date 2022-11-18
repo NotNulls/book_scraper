@@ -8,6 +8,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import pandas as pd
 
 title_search = input('Please insert search keyword: ')
 
@@ -36,26 +37,44 @@ def search_funct():
 
     search_result = soup.find_all('h1')
     s = [' '.join(s.getText().split()) for s in search_result]
-    print(s)
+    print('Web app search results: ',s)
     print('----------')
-    print(s[1][0])
-    if s[1][0] != 0:
+    print('Number of mathces: ', s[1][0])
+
+    data = []
+    
+    if int(s[1][0]) != 0:
         try:
-        
-            d = driver
-            print(d.page_source)
             soup = BeautifulSoup(driver.page_source,'html.parser')
             find_by_class = soup.find_all(class_="body")
-            print(find_by_class)
-            e = [[",".join(e.getText().split())] for e in find_by_class if " ".join(e.getText().split()) != "Premium:"]
-            print(e)
-        except:
+            #print (find_by_class)
+            print('------type(i) and type(i.find_all("a",class_=""))----')
+            
+            for i in find_by_class:
+                title = ["".join(i.text) for i in i.find_all("a",class_="")][0]
+                author = [i.text for i in i.find_all("a",class_="")][1]
+                price = [i.text.split()[0] for i in i.find_all("span",class_="price")]
+                
+                
+                data.append([title,author, price[1]])
+            print('-------------------------')
+            # e = [[" ".join(item.getText().split()),] for item in 
+        except ValueError:
             pass
     else:
-        print('No matches, please type in correct keyword!')
+        print('Please type in a correct keyword!')
+        
     
+    #print(data)
 
+    try:
+        data_frame = pd.DataFrame(data)
+        data_frame.columns = ['Title','Author','Price']
+        print(data_frame)
+    except ValueError:
+        pass
 
     driver.close()
 
 search_funct()
+

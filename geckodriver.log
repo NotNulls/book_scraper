@@ -2362,3 +2362,1291 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
 1668727341975	Marionette	INFO	Stopped listening on port 58763
+1668786268964	geckodriver	INFO	Listening on 127.0.0.1:64715
+1668786272061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64716" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile6WJ8R4"
+1668786285592	geckodriver	INFO	Listening on 127.0.0.1:64730
+1668786289291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64731" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileXazD9R"
+1668786303961	Marionette	INFO	Marionette enabled
+1668786304041	Marionette	INFO	Listening on port 64736
+WebDriver BiDi listening on ws://127.0.0.1:64731
+1668786308488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to connect GPU process
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+[Parent 5972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileXazD9R\\search.json.mozlz4", (void 0), 221))
+DevTools listening on ws://127.0.0.1:64731/devtools/browser/2e03da24-0eea-4a90-b8fc-2e2d87a2b100
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2196,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2196","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1106","resource://gre/modules/addons/XPIProvider.jsm:awaitPromise:221","resource://gre/modules/addons/XPIDatabase.jsm:processFileChanges:3538","resource://gre/modules/addons/XPIProvider.jsm:getNewSideloads:3112"]}] Barrier: quit-application-granted
+1668786399513	Marionette	INFO	Stopped listening on port 64736
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- XPIProvider.jsm:awaitPromise
+ox.exe" "--marionette" "--remote-debugging-port" "64820" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileF52Pyh"
+1668786352725	Marionette	INFO	Marionette enabled
+1668786352737	Marionette	INFO	Listening on port 64825
+WebDriver BiDi listening on ws://127.0.0.1:64820
+1668786354022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileF52Pyh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64820/devtools/browser/81edfcda-5e98-4c03-a3ad-e096396186bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786389194	Marionette	INFO	Stopped listening on port 64825
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 2100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1668786452783	geckodriver	INFO	Listening on 127.0.0.1:64922
+1668786455857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64923" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile9T70Gl"
+1668786456467	Marionette	INFO	Marionette enabled
+1668786456475	Marionette	INFO	Listening on port 64928
+WebDriver BiDi listening on ws://127.0.0.1:64923
+1668786457477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile9T70Gl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64923/devtools/browser/477c4b6a-89e0-4671-9e8f-097dbae5e667
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786476345	Marionette	INFO	Stopped listening on port 64928
+1668786583690	geckodriver	INFO	Listening on 127.0.0.1:65016
+1668786586745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65017" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileA3GvLe"
+1668786587239	Marionette	INFO	Marionette enabled
+1668786587247	Marionette	INFO	Listening on port 65022
+WebDriver BiDi listening on ws://127.0.0.1:65017
+1668786587486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileA3GvLe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65017/devtools/browser/a398e618-e533-4ed6-97b3-10d986a9611e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786631510	Marionette	INFO	Stopped listening on port 65022
+1668786696508	geckodriver	INFO	Listening on 127.0.0.1:65124
+1668786699536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65125" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexMqmA3"
+1668786700036	Marionette	INFO	Marionette enabled
+1668786700043	Marionette	INFO	Listening on port 65130
+WebDriver BiDi listening on ws://127.0.0.1:65125
+1668786700282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexMqmA3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65125/devtools/browser/ff2ee340-3743-4347-8f3e-48380c9eb062
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786727205	Marionette	INFO	Stopped listening on port 65130
+1668786777402	geckodriver	INFO	Listening on 127.0.0.1:65205
+1668786780458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65206" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileXhYbLT"
+1668786780976	Marionette	INFO	Marionette enabled
+1668786780983	Marionette	INFO	Listening on port 65211
+WebDriver BiDi listening on ws://127.0.0.1:65206
+1668786781566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileXhYbLT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65206/devtools/browser/6d38f1a9-29d5-4a9c-a6e1-e2d5d6688ed4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786807663	Marionette	INFO	Stopped listening on port 65211
+[Parent 15160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668786871056	geckodriver	INFO	Listening on 127.0.0.1:65292
+1668786874099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65293" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilezVRQ9R"
+1668786874608	Marionette	INFO	Marionette enabled
+1668786874616	Marionette	INFO	Listening on port 65298
+WebDriver BiDi listening on ws://127.0.0.1:65293
+1668786874866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilezVRQ9R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65293/devtools/browser/511af332-c2f8-4133-bf65-deb3d3690513
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786898965	Marionette	INFO	Stopped listening on port 65298
+[Parent 14924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668786937192	geckodriver	INFO	Listening on 127.0.0.1:65378
+1668786940243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65379" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3w4p7V"
+1668786940830	Marionette	INFO	Marionette enabled
+1668786940838	Marionette	INFO	Listening on port 65384
+WebDriver BiDi listening on ws://127.0.0.1:65379
+1668786941449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3w4p7V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65379/devtools/browser/9d4a8e9e-97a5-42f6-963f-406560de8e10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668786965285	Marionette	INFO	Stopped listening on port 65384
+1668787040028	geckodriver	INFO	Listening on 127.0.0.1:65475
+1668787043078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65476" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileXVHGCy"
+1668787043572	Marionette	INFO	Marionette enabled
+1668787043579	Marionette	INFO	Listening on port 65481
+WebDriver BiDi listening on ws://127.0.0.1:65476
+1668787043826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileXVHGCy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65476/devtools/browser/45a4da76-4a09-4047-b39c-aeff253736fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668787081364	Marionette	INFO	Stopped listening on port 65481
+1668788780146	geckodriver	INFO	Listening on 127.0.0.1:54408
+1668788783200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54409" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileBdwdyA"
+1668788783798	Marionette	INFO	Marionette enabled
+1668788783809	Marionette	INFO	Listening on port 54414
+WebDriver BiDi listening on ws://127.0.0.1:54409
+1668788784341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileBdwdyA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54409/devtools/browser/707f6d10-8536-4f3e-888e-7672fa699be7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668788800462	Marionette	INFO	Stopped listening on port 54414
+1668788829353	geckodriver	INFO	Listening on 127.0.0.1:54487
+1668788832407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54488" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilej2VEu1"
+1668788832948	Marionette	INFO	Marionette enabled
+1668788832957	Marionette	INFO	Listening on port 54493
+WebDriver BiDi listening on ws://127.0.0.1:54488
+1668788833574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilej2VEu1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54488/devtools/browser/8743dc19-0cfc-45c9-8788-bb3ac9b0a7ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668788849928	Marionette	INFO	Stopped listening on port 54493
+1668789263404	geckodriver	INFO	Listening on 127.0.0.1:54579
+1668789266460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54580" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileS69ha6"
+1668789266923	Marionette	INFO	Marionette enabled
+1668789266931	Marionette	INFO	Listening on port 54585
+WebDriver BiDi listening on ws://127.0.0.1:54580
+1668789267175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileS69ha6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54580/devtools/browser/aa49707d-7b41-47fb-91c1-03cfcb66c292
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668789285609	Marionette	INFO	Stopped listening on port 54585
+1668789359226	geckodriver	INFO	Listening on 127.0.0.1:54658
+1668789362277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54659" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileeGHypQ"
+1668789362740	Marionette	INFO	Marionette enabled
+1668789362747	Marionette	INFO	Listening on port 54664
+WebDriver BiDi listening on ws://127.0.0.1:54659
+1668789362994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileeGHypQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54659/devtools/browser/ef496b5c-aa61-4d56-88ea-ef527947674f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668789391306	Marionette	INFO	Stopped listening on port 54664
+[Parent 14608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668789532842	geckodriver	INFO	Listening on 127.0.0.1:54745
+1668789535884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54746" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileJ4V5hH"
+1668789536347	Marionette	INFO	Marionette enabled
+1668789536354	Marionette	INFO	Listening on port 54751
+WebDriver BiDi listening on ws://127.0.0.1:54746
+1668789536602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileJ4V5hH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54746/devtools/browser/7e339fa1-09fc-4f2e-8cc9-98a3e7d51fec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668789557172	Marionette	INFO	Stopped listening on port 54751
+[Parent 15716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668789622648	geckodriver	INFO	Listening on 127.0.0.1:54829
+1668789625696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54830" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileBBQ8gz"
+1668789626168	Marionette	INFO	Marionette enabled
+1668789626177	Marionette	INFO	Listening on port 54835
+WebDriver BiDi listening on ws://127.0.0.1:54830
+1668789626442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileBBQ8gz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54830/devtools/browser/f20c6e94-d446-4dd6-a2e0-96882820eaa3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668789641637	Marionette	INFO	Stopped listening on port 54835
+1668789878441	geckodriver	INFO	Listening on 127.0.0.1:54948
+1668789881487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54949" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileIlCfzq"
+1668789881960	Marionette	INFO	Marionette enabled
+1668789881967	Marionette	INFO	Listening on port 54954
+WebDriver BiDi listening on ws://127.0.0.1:54949
+1668789882230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileIlCfzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54949/devtools/browser/168a7fb6-9e30-40b7-bd76-b1ede007b6c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668789902169	Marionette	INFO	Stopped listening on port 54954
+1668790122966	geckodriver	INFO	Listening on 127.0.0.1:49898
+1668790125997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49899" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile819vTr"
+1668790126455	Marionette	INFO	Marionette enabled
+1668790126462	Marionette	INFO	Listening on port 49904
+WebDriver BiDi listening on ws://127.0.0.1:49899
+1668790126726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile819vTr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49899/devtools/browser/6644e022-3b06-4eb3-815b-b16908d2a984
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790141761	Marionette	INFO	Stopped listening on port 49904
+1668790192821	geckodriver	INFO	Listening on 127.0.0.1:49993
+1668790195864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49994" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileoRCGHM"
+1668790196432	Marionette	INFO	Marionette enabled
+1668790196441	Marionette	INFO	Listening on port 49999
+WebDriver BiDi listening on ws://127.0.0.1:49994
+1668790197051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileoRCGHM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49994/devtools/browser/30e89abe-e71a-4465-85d3-ddf5c3700492
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790212294	Marionette	INFO	Stopped listening on port 49999
+1668790250028	geckodriver	INFO	Listening on 127.0.0.1:50132
+1668790253066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50133" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileITXN4W"
+1668790253588	Marionette	INFO	Marionette enabled
+1668790253595	Marionette	INFO	Listening on port 50138
+WebDriver BiDi listening on ws://127.0.0.1:50133
+1668790254191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileITXN4W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50133/devtools/browser/5dbb5c54-75c6-44c8-bc11-58d1fc63fee1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790268930	Marionette	INFO	Stopped listening on port 50138
+1668790428452	geckodriver	INFO	Listening on 127.0.0.1:50234
+1668790431520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50235" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7yrOzB"
+1668790432106	Marionette	INFO	Marionette enabled
+1668790432115	Marionette	INFO	Listening on port 50241
+WebDriver BiDi listening on ws://127.0.0.1:50235
+1668790432760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7yrOzB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50235/devtools/browser/2bab7d97-c4d3-4382-966c-be57841a55a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790447398	Marionette	INFO	Stopped listening on port 50241
+1668790467232	geckodriver	INFO	Listening on 127.0.0.1:50312
+1668790470265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50313" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilepVswHm"
+1668790470734	Marionette	INFO	Marionette enabled
+1668790470743	Marionette	INFO	Listening on port 50318
+WebDriver BiDi listening on ws://127.0.0.1:50313
+1668790471032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilepVswHm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50313/devtools/browser/00846716-7b0c-4103-bb80-cd3c464d1a6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790485891	Marionette	INFO	Stopped listening on port 50318
+1668790609301	geckodriver	INFO	Listening on 127.0.0.1:50411
+1668790612357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50412" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexGZAv5"
+1668790612846	Marionette	INFO	Marionette enabled
+1668790612854	Marionette	INFO	Listening on port 50418
+WebDriver BiDi listening on ws://127.0.0.1:50412
+1668790613088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexGZAv5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50412/devtools/browser/52aef2e2-c639-4f90-9e69-ba38c5091a9a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790627956	Marionette	INFO	Stopped listening on port 50418
+1668790701498	geckodriver	INFO	Listening on 127.0.0.1:50500
+1668790704559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50501" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexr7jbF"
+1668790705024	Marionette	INFO	Marionette enabled
+1668790705033	Marionette	INFO	Listening on port 50506
+WebDriver BiDi listening on ws://127.0.0.1:50501
+1668790705274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexr7jbF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50501/devtools/browser/ec105a98-b64e-458f-accc-5239ad54ac8c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790725614	Marionette	INFO	Stopped listening on port 50506
+1668790805879	geckodriver	INFO	Listening on 127.0.0.1:50589
+1668790808922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50590" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileP4hqOr"
+1668790809378	Marionette	INFO	Marionette enabled
+1668790809385	Marionette	INFO	Listening on port 50595
+WebDriver BiDi listening on ws://127.0.0.1:50590
+1668790809628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileP4hqOr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50590/devtools/browser/b71e4fe8-7c59-40ec-88c6-ec7bbe4ce9f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790824305	Marionette	INFO	Stopped listening on port 50595
+[Parent 15080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668790956429	geckodriver	INFO	Listening on 127.0.0.1:50688
+1668790966168	geckodriver	INFO	Listening on 127.0.0.1:50698
+1668790969222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50699" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileqxYFVM"
+1668790969687	Marionette	INFO	Marionette enabled
+1668790969694	Marionette	INFO	Listening on port 50704
+WebDriver BiDi listening on ws://127.0.0.1:50699
+1668790969922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileqxYFVM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50699/devtools/browser/3439934b-252e-4c86-b068-1b35e7bf453e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668790996028	Marionette	INFO	Stopped listening on port 50704
+1668791008971	geckodriver	INFO	Listening on 127.0.0.1:50781
+1668791012019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50782" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7DLxX1"
+1668791012549	Marionette	INFO	Marionette enabled
+1668791012560	Marionette	INFO	Listening on port 50788
+WebDriver BiDi listening on ws://127.0.0.1:50782
+1668791013188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7DLxX1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50782/devtools/browser/a396c6f8-7f12-4596-834b-40b642e10356
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791029740	Marionette	INFO	Stopped listening on port 50788
+1668791052202	geckodriver	INFO	Listening on 127.0.0.1:50868
+1668791055243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50869" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileCWRGBC"
+1668791055725	Marionette	INFO	Marionette enabled
+1668791055734	Marionette	INFO	Listening on port 50875
+WebDriver BiDi listening on ws://127.0.0.1:50869
+1668791056004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileCWRGBC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50869/devtools/browser/a44b8839-b4c1-4689-aa06-40b25539a122
+1668791218979	Marionette	INFO	Stopped listening on port 50875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668791349493	geckodriver	INFO	Listening on 127.0.0.1:50982
+1668791352540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50983" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileLy0vnk"
+1668791353010	Marionette	INFO	Marionette enabled
+1668791353019	Marionette	INFO	Listening on port 50988
+WebDriver BiDi listening on ws://127.0.0.1:50983
+1668791353262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileLy0vnk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50983/devtools/browser/1f654537-9c3d-464c-ab86-2f44db245bd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791374957	Marionette	INFO	Stopped listening on port 50988
+1668791400787	geckodriver	INFO	Listening on 127.0.0.1:51065
+1668791403835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51066" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilehxmwYo"
+1668791404303	Marionette	INFO	Marionette enabled
+1668791404311	Marionette	INFO	Listening on port 51071
+WebDriver BiDi listening on ws://127.0.0.1:51066
+1668791404555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilehxmwYo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51066/devtools/browser/7dad3b33-0144-403d-9f7d-ed1769279099
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791425347	Marionette	INFO	Stopped listening on port 51071
+[Parent 12948, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668791460167	geckodriver	INFO	Listening on 127.0.0.1:51149
+1668791463204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51150" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilekRhJ5s"
+1668791463752	Marionette	INFO	Marionette enabled
+1668791463761	Marionette	INFO	Listening on port 51155
+WebDriver BiDi listening on ws://127.0.0.1:51150
+1668791464403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilekRhJ5s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51150/devtools/browser/08a99631-3ec2-49b1-9136-7f738ba847ca
+1668791539333	geckodriver	INFO	Listening on 127.0.0.1:51249
+1668791542391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51250" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilekFqips"
+1668791542942	Marionette	INFO	Marionette enabled
+1668791542952	Marionette	INFO	Listening on port 51255
+WebDriver BiDi listening on ws://127.0.0.1:51250
+1668791543635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilekFqips\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51250/devtools/browser/5970f48d-13ef-47e7-9c2b-9ad3068f0d20
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791568761	Marionette	INFO	Stopped listening on port 51255
+1668791620217	geckodriver	INFO	Listening on 127.0.0.1:51329
+1668791623257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51330" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilelgYGRZ"
+1668791623792	Marionette	INFO	Marionette enabled
+1668791623800	Marionette	INFO	Listening on port 51335
+WebDriver BiDi listening on ws://127.0.0.1:51330
+1668791624388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilelgYGRZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51330/devtools/browser/be247b19-f4fa-4843-8993-c81f33cb6279
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791643805	Marionette	INFO	Stopped listening on port 51335
+[Parent 13508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668791769697	geckodriver	INFO	Listening on 127.0.0.1:51425
+1668791772748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51426" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileFSKBFq"
+1668791773462	Marionette	INFO	Marionette enabled
+1668791773476	Marionette	INFO	Listening on port 51433
+WebDriver BiDi listening on ws://127.0.0.1:51426
+1668791773912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668791782872	geckodriver	INFO	Listening on 127.0.0.1:51446
+1668791785917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51447" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilem7SNUj"
+1668791786403	Marionette	INFO	Marionette enabled
+1668791786410	Marionette	INFO	Listening on port 51452
+WebDriver BiDi listening on ws://127.0.0.1:51447
+1668791786664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilem7SNUj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51447/devtools/browser/be7fdcab-31f3-4663-879b-238c83e2b1fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791806035	Marionette	INFO	Stopped listening on port 51452
+1668791892641	geckodriver	INFO	Listening on 127.0.0.1:51529
+1668791895683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51530" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilehtyaFb"
+1668791896205	Marionette	INFO	Marionette enabled
+1668791896213	Marionette	INFO	Listening on port 51535
+WebDriver BiDi listening on ws://127.0.0.1:51530
+1668791896778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilehtyaFb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51530/devtools/browser/5601fdc1-b149-45bd-b68f-a4d70d92af0c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668791928246	Marionette	INFO	Stopped listening on port 51535
+[Parent 7688, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+[Parent 7688, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1668792002767	geckodriver	INFO	Listening on 127.0.0.1:51612
+1668792005823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51613" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilem8Qv1v"
+1668792006296	Marionette	INFO	Marionette enabled
+1668792006305	Marionette	INFO	Listening on port 51618
+WebDriver BiDi listening on ws://127.0.0.1:51613
+1668792006554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilem8Qv1v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51613/devtools/browser/5d995cdb-45a3-47e2-855d-9d11374bb0a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792021718	Marionette	INFO	Stopped listening on port 51618
+!!! error running onStopped callback: TypeError: callback is not a function
+1668792172979	geckodriver	INFO	Listening on 127.0.0.1:51719
+1668792176026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51720" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDa1O56"
+1668792176570	Marionette	INFO	Marionette enabled
+1668792176579	Marionette	INFO	Listening on port 51725
+WebDriver BiDi listening on ws://127.0.0.1:51720
+1668792177161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDa1O56\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51720/devtools/browser/7cb6871a-209c-41e9-9e6d-f67f1aabec9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792196658	Marionette	INFO	Stopped listening on port 51725
+1668792240549	geckodriver	INFO	Listening on 127.0.0.1:51803
+1668792243602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51804" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileHz1bDC"
+1668792244078	Marionette	INFO	Marionette enabled
+1668792244085	Marionette	INFO	Listening on port 51809
+WebDriver BiDi listening on ws://127.0.0.1:51804
+1668792244341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileHz1bDC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51804/devtools/browser/83b5fee9-4344-4310-80b4-ce62c47dff90
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792263163	Marionette	INFO	Stopped listening on port 51809
+[Parent 12224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668792301485	geckodriver	INFO	Listening on 127.0.0.1:51890
+1668792304546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51891" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileIfSkZ4"
+1668792305281	Marionette	INFO	Marionette enabled
+1668792305292	Marionette	INFO	Listening on port 51896
+WebDriver BiDi listening on ws://127.0.0.1:51891
+1668792305965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileIfSkZ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51891/devtools/browser/db500001-1f12-4306-b645-ed6d045e881a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792321091	Marionette	INFO	Stopped listening on port 51896
+[Parent 16712, Main Thread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1668792588418	geckodriver	INFO	Listening on 127.0.0.1:51990
+1668792591463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51991" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileEPcv8x"
+1668792591930	Marionette	INFO	Marionette enabled
+1668792591938	Marionette	INFO	Listening on port 51996
+WebDriver BiDi listening on ws://127.0.0.1:51991
+1668792592203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileEPcv8x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51991/devtools/browser/35dc7563-bfe6-4910-9852-f5f308e4b1d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792607082	Marionette	INFO	Stopped listening on port 51996
+1668792698163	geckodriver	INFO	Listening on 127.0.0.1:52079
+1668792701223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52080" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilelKWa81"
+1668792701686	Marionette	INFO	Marionette enabled
+1668792701694	Marionette	INFO	Listening on port 52085
+WebDriver BiDi listening on ws://127.0.0.1:52080
+1668792701938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilelKWa81\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52080/devtools/browser/d48a7ec5-d371-4940-981f-4066d25e7aee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792717475	Marionette	INFO	Stopped listening on port 52085
+1668792739284	geckodriver	INFO	Listening on 127.0.0.1:52158
+1668792742319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52159" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileB6ku0v"
+1668792742857	Marionette	INFO	Marionette enabled
+1668792742866	Marionette	INFO	Listening on port 52164
+WebDriver BiDi listening on ws://127.0.0.1:52159
+1668792743480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileB6ku0v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52159/devtools/browser/2f7951c5-72bc-4b96-a68d-6f0c8177402b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792758737	Marionette	INFO	Stopped listening on port 52164
+1668792776822	geckodriver	INFO	Listening on 127.0.0.1:52238
+1668792779866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52239" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileOFXjsO"
+1668792780337	Marionette	INFO	Marionette enabled
+1668792780345	Marionette	INFO	Listening on port 52244
+WebDriver BiDi listening on ws://127.0.0.1:52239
+1668792780595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileOFXjsO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52239/devtools/browser/95faf77c-f67b-42c6-a3bb-020f65b8b69c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792795253	Marionette	INFO	Stopped listening on port 52244
+1668792840521	geckodriver	INFO	Listening on 127.0.0.1:52314
+1668792843579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52315" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileiLVBrR"
+1668792844045	Marionette	INFO	Marionette enabled
+1668792844052	Marionette	INFO	Listening on port 52320
+WebDriver BiDi listening on ws://127.0.0.1:52315
+1668792844320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileiLVBrR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52315/devtools/browser/ccc48e96-b747-42d6-8f8f-2deb17c4ce05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792859165	Marionette	INFO	Stopped listening on port 52320
+[Parent 1744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668792913787	geckodriver	INFO	Listening on 127.0.0.1:52396
+1668792916836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52397" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilefCo4iK"
+1668792917303	Marionette	INFO	Marionette enabled
+1668792917310	Marionette	INFO	Listening on port 52402
+WebDriver BiDi listening on ws://127.0.0.1:52397
+1668792917543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilefCo4iK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52397/devtools/browser/3753000f-1b46-43a3-842c-77cc6f761fb5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668792932606	Marionette	INFO	Stopped listening on port 52402
+1668793048566	geckodriver	INFO	Listening on 127.0.0.1:52482
+1668793051615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52483" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3bzSQc"
+1668793052098	Marionette	INFO	Marionette enabled
+1668793052107	Marionette	INFO	Listening on port 52488
+WebDriver BiDi listening on ws://127.0.0.1:52483
+1668793052350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3bzSQc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52483/devtools/browser/86cb65b2-a257-4765-8706-100f474e8754
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668793068375	Marionette	INFO	Stopped listening on port 52488
+1668793105646	geckodriver	INFO	Listening on 127.0.0.1:52565
+1668793108709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52566" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileTUgP6O"
+1668793109170	Marionette	INFO	Marionette enabled
+1668793109178	Marionette	INFO	Listening on port 52572
+WebDriver BiDi listening on ws://127.0.0.1:52566
+1668793109418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileTUgP6O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52566/devtools/browser/4ec941c6-4ce5-416a-94ea-cc74b0c7e7b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668793124104	Marionette	INFO	Stopped listening on port 52572
+1668793228740	geckodriver	INFO	Listening on 127.0.0.1:52660
+1668793231792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52661" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileCBJHgG"
+1668793232259	Marionette	INFO	Marionette enabled
+1668793232266	Marionette	INFO	Listening on port 52666
+WebDriver BiDi listening on ws://127.0.0.1:52661
+1668793232506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileCBJHgG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52661/devtools/browser/0012494a-49ce-4c57-aca1-3844a4ea610b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668793247162	Marionette	INFO	Stopped listening on port 52666
+1668793331311	geckodriver	INFO	Listening on 127.0.0.1:52766
+1668793334367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52767" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileIKEZzk"
+1668793334874	Marionette	INFO	Marionette enabled
+1668793334882	Marionette	INFO	Listening on port 52772
+WebDriver BiDi listening on ws://127.0.0.1:52767
+1668793335171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileIKEZzk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52767/devtools/browser/19a6c33f-72dc-47ac-9b5b-16d43aaeb51e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668793352333	Marionette	INFO	Stopped listening on port 52772
+1668797002054	geckodriver	INFO	Listening on 127.0.0.1:52959
+1668797005097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52960" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileoFr9iL"
+1668797005583	Marionette	INFO	Marionette enabled
+1668797005592	Marionette	INFO	Listening on port 52965
+WebDriver BiDi listening on ws://127.0.0.1:52960
+1668797005845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileoFr9iL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52960/devtools/browser/baaaf94c-0718-420a-a56b-33b93b215ee3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797021693	Marionette	INFO	Stopped listening on port 52965
+1668797052959	geckodriver	INFO	Listening on 127.0.0.1:53035
+1668797056008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53036" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilecaFlVZ"
+1668797056482	Marionette	INFO	Marionette enabled
+1668797056490	Marionette	INFO	Listening on port 53045
+WebDriver BiDi listening on ws://127.0.0.1:53036
+1668797056736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilecaFlVZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53036/devtools/browser/f80c3954-2230-4fa8-9b32-754ca31b7057
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797072843	Marionette	INFO	Stopped listening on port 53045
+1668797156079	geckodriver	INFO	Listening on 127.0.0.1:53124
+1668797159126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53125" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilewR5hoh"
+1668797159589	Marionette	INFO	Marionette enabled
+1668797159597	Marionette	INFO	Listening on port 53130
+WebDriver BiDi listening on ws://127.0.0.1:53125
+1668797159840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilewR5hoh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53125/devtools/browser/e6c48023-51fb-43cc-ad5f-2c0a84c649e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797175226	Marionette	INFO	Stopped listening on port 53130
+1668797224411	geckodriver	INFO	Listening on 127.0.0.1:53207
+1668797227455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53208" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile63SWmV"
+1668797227910	Marionette	INFO	Marionette enabled
+1668797227919	Marionette	INFO	Listening on port 53213
+WebDriver BiDi listening on ws://127.0.0.1:53208
+1668797228157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile63SWmV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53208/devtools/browser/9cf4a797-72b4-4275-95ea-2cf9026446d8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797243513	Marionette	INFO	Stopped listening on port 53213
+1668797300828	geckodriver	INFO	Listening on 127.0.0.1:53298
+1668797303877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53299" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileFfaLgA"
+1668797304342	Marionette	INFO	Marionette enabled
+1668797304350	Marionette	INFO	Listening on port 53304
+WebDriver BiDi listening on ws://127.0.0.1:53299
+1668797304601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileFfaLgA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53299/devtools/browser/f933f7de-4f71-4fb6-83fb-6e228457387a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797319202	Marionette	INFO	Stopped listening on port 53304
+1668797625361	geckodriver	INFO	Listening on 127.0.0.1:62360
+1668797628424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62361" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileVEaCea"
+1668797628899	Marionette	INFO	Marionette enabled
+1668797628906	Marionette	INFO	Listening on port 62367
+WebDriver BiDi listening on ws://127.0.0.1:62361
+1668797629152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileVEaCea\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62361/devtools/browser/6f135e05-10c4-43bf-9b93-905f0020e34b
+1668797637021	Marionette	INFO	Stopped listening on port 62367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 717: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1668797647082	geckodriver	INFO	Listening on 127.0.0.1:62431
+1668797650143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62432" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7zWNxO"
+1668797650627	Marionette	INFO	Marionette enabled
+1668797650634	Marionette	INFO	Listening on port 62437
+WebDriver BiDi listening on ws://127.0.0.1:62432
+1668797650886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7zWNxO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62432/devtools/browser/779d3d29-f74f-48c1-b4a0-0529bed9cd73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797666172	Marionette	INFO	Stopped listening on port 62437
+1668797846124	geckodriver	INFO	Listening on 127.0.0.1:64744
+1668797849175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64745" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileAWBxLd"
+1668797849704	Marionette	INFO	Marionette enabled
+1668797849713	Marionette	INFO	Listening on port 64750
+WebDriver BiDi listening on ws://127.0.0.1:64745
+1668797850336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileAWBxLd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64745/devtools/browser/f60e60fd-8b47-44a3-8a59-ed521db4b9b3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668797892599	Marionette	INFO	Stopped listening on port 64750
+1668798152300	geckodriver	INFO	Listening on 127.0.0.1:56856
+1668798155383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56857" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilei5oiFy"
+1668798155974	Marionette	INFO	Marionette enabled
+1668798155985	Marionette	INFO	Listening on port 56862
+WebDriver BiDi listening on ws://127.0.0.1:56857
+1668798156608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilei5oiFy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56857/devtools/browser/90dbd3f1-e6b2-40c3-b45a-c9270cd4c5b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668798172452	Marionette	INFO	Stopped listening on port 56862
+1668798348092	geckodriver	INFO	Listening on 127.0.0.1:56949
+1668798351145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56950" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDBYv7G"
+1668798351625	Marionette	INFO	Marionette enabled
+1668798351632	Marionette	INFO	Listening on port 56955
+WebDriver BiDi listening on ws://127.0.0.1:56950
+1668798351874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDBYv7G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56950/devtools/browser/4a8557d9-3e8b-4e45-a3c1-1dba4a2ee16b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668798367485	Marionette	INFO	Stopped listening on port 56955
+1668803454497	geckodriver	INFO	Listening on 127.0.0.1:57190
+1668803457541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57191" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3Dez4o"
+1668803458031	Marionette	INFO	Marionette enabled
+1668803458039	Marionette	INFO	Listening on port 57197
+WebDriver BiDi listening on ws://127.0.0.1:57191
+1668803458285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3Dez4o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57191/devtools/browser/141b3284-ad17-46c1-9f5a-9b0ef229af3d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668803473537	Marionette	INFO	Stopped listening on port 57197
+1668803507626	geckodriver	INFO	Listening on 127.0.0.1:57270
+1668803510666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57271" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilepQsSM7"
+1668803511402	Marionette	INFO	Marionette enabled
+1668803511413	Marionette	INFO	Listening on port 57276
+WebDriver BiDi listening on ws://127.0.0.1:57271
+1668803511864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilepQsSM7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57271/devtools/browser/090a59a6-28e6-4b31-bd46-3fdfd339f273
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668803526970	Marionette	INFO	Stopped listening on port 57276
+1668803579248	geckodriver	INFO	Listening on 127.0.0.1:57348
+1668803582294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57349" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilezJ8mAN"
+1668803582753	Marionette	INFO	Marionette enabled
+1668803582760	Marionette	INFO	Listening on port 57354
+WebDriver BiDi listening on ws://127.0.0.1:57349
+1668803583001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilezJ8mAN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57349/devtools/browser/8d63af4c-4fea-4d6a-bcbb-6f5bd2dd3d68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668803597997	Marionette	INFO	Stopped listening on port 57354
+[Parent 228, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668803705917	geckodriver	INFO	Listening on 127.0.0.1:57434
+1668803708977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57435" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilesnZel7"
+1668803709457	Marionette	INFO	Marionette enabled
+1668803709466	Marionette	INFO	Listening on port 57440
+WebDriver BiDi listening on ws://127.0.0.1:57435
+1668803709706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilesnZel7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57435/devtools/browser/12079c4f-8c75-4a27-b8d7-bb78eebfb091
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668803727702	Marionette	INFO	Stopped listening on port 57440
+[Parent 14056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14056, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1668804358106	geckodriver	INFO	Listening on 127.0.0.1:57541
+1668804361147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57542" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDbyBWt"
+1668804361629	Marionette	INFO	Marionette enabled
+1668804361636	Marionette	INFO	Listening on port 57547
+WebDriver BiDi listening on ws://127.0.0.1:57542
+1668804361883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDbyBWt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57542/devtools/browser/60187d16-7389-4a6a-8eef-2f22b3e24dd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804376436	Marionette	INFO	Stopped listening on port 57547
+[Parent 12444, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668804398692	geckodriver	INFO	Listening on 127.0.0.1:57619
+1668804401734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57620" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilewrNdkl"
+1668804402196	Marionette	INFO	Marionette enabled
+1668804402203	Marionette	INFO	Listening on port 57625
+WebDriver BiDi listening on ws://127.0.0.1:57620
+1668804402443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilewrNdkl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57620/devtools/browser/b740f75a-e527-4367-bba1-da1772f8d719
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804417381	Marionette	INFO	Stopped listening on port 57625
+1668804437226	geckodriver	INFO	Listening on 127.0.0.1:57696
+1668804440277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57697" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilepyREEB"
+1668804440742	Marionette	INFO	Marionette enabled
+1668804440750	Marionette	INFO	Listening on port 57702
+WebDriver BiDi listening on ws://127.0.0.1:57697
+1668804440994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilepyREEB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57697/devtools/browser/19acff3f-2492-4a65-b0c7-6020e794f075
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804457203	Marionette	INFO	Stopped listening on port 57702
+1668804633436	geckodriver	INFO	Listening on 127.0.0.1:57789
+1668804636491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57790" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileMN50iC"
+1668804636978	Marionette	INFO	Marionette enabled
+1668804636985	Marionette	INFO	Listening on port 57795
+WebDriver BiDi listening on ws://127.0.0.1:57790
+1668804637230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileMN50iC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57790/devtools/browser/41afea0e-af67-4bb6-92d4-5d1e12482308
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804651799	Marionette	INFO	Stopped listening on port 57795
+[Parent 10696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1668804674634	geckodriver	INFO	Listening on 127.0.0.1:57869
+1668804677688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57870" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileYD9jGn"
+1668804678162	Marionette	INFO	Marionette enabled
+1668804678168	Marionette	INFO	Listening on port 57875
+WebDriver BiDi listening on ws://127.0.0.1:57870
+1668804678411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileYD9jGn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57870/devtools/browser/d9eb91e3-515c-4b90-a36d-50af76a604da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804693290	Marionette	INFO	Stopped listening on port 57875
+1668804751523	geckodriver	INFO	Listening on 127.0.0.1:57951
+1668804754566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57952" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3LGFri"
+1668804755037	Marionette	INFO	Marionette enabled
+1668804755044	Marionette	INFO	Listening on port 57957
+WebDriver BiDi listening on ws://127.0.0.1:57952
+1668804755281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile3LGFri\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57952/devtools/browser/9872d184-43b7-41d4-9578-f12a9a80d078
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804770559	Marionette	INFO	Stopped listening on port 57957
+1668804795200	geckodriver	INFO	Listening on 127.0.0.1:58032
+1668804798236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58033" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilejkuD7V"
+1668804798712	Marionette	INFO	Marionette enabled
+1668804798721	Marionette	INFO	Listening on port 58038
+WebDriver BiDi listening on ws://127.0.0.1:58033
+1668804798993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilejkuD7V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58033/devtools/browser/05d6ed5a-4081-4ede-a579-0d1a980d1cfe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804813784	Marionette	INFO	Stopped listening on port 58038
+1668804839080	geckodriver	INFO	Listening on 127.0.0.1:58110
+1668804842139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58111" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileZkw8PI"
+1668804842666	Marionette	INFO	Marionette enabled
+1668804842676	Marionette	INFO	Listening on port 58116
+WebDriver BiDi listening on ws://127.0.0.1:58111
+1668804843298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileZkw8PI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58111/devtools/browser/31521e94-bede-46ec-9c40-b96b40731dcb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668804858624	Marionette	INFO	Stopped listening on port 58116
+1668805176134	geckodriver	INFO	Listening on 127.0.0.1:58213
+1668805179179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58214" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileHPXnIo"
+1668805179643	Marionette	INFO	Marionette enabled
+1668805179651	Marionette	INFO	Listening on port 58219
+WebDriver BiDi listening on ws://127.0.0.1:58214
+1668805179897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileHPXnIo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58214/devtools/browser/692ae2fc-c98c-44aa-8b1a-5bede74a3281
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668805195016	Marionette	INFO	Stopped listening on port 58219
+1668805225357	geckodriver	INFO	Listening on 127.0.0.1:58289
+1668805228416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58290" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileLaxscD"
+1668805228879	Marionette	INFO	Marionette enabled
+1668805228887	Marionette	INFO	Listening on port 58295
+WebDriver BiDi listening on ws://127.0.0.1:58290
+1668805229124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileLaxscD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58290/devtools/browser/ff400d9a-a41b-4570-9d44-4e4a4b2f3960
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668805244261	Marionette	INFO	Stopped listening on port 58295
+1668805358664	geckodriver	INFO	Listening on 127.0.0.1:59272
+1668805361722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59273" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileBXrIp3"
+1668805362759	Marionette	INFO	Marionette enabled
+1668805362772	Marionette	INFO	Listening on port 59281
+WebDriver BiDi listening on ws://127.0.0.1:59273
+1668805363664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1668805430934	geckodriver	INFO	Listening on 127.0.0.1:59308
+1668805433980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59309" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexnTtmw"
+1668805434606	Marionette	INFO	Marionette enabled
+1668805434615	Marionette	INFO	Listening on port 59314
+WebDriver BiDi listening on ws://127.0.0.1:59309
+1668805435581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilexnTtmw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59309/devtools/browser/544baeb1-2d39-4951-adb3-dc63134825c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668805450915	Marionette	INFO	Stopped listening on port 59314
+1668806600218	geckodriver	INFO	Listening on 127.0.0.1:59474
+1668806603275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59475" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilehLpnY5"
+1668806603910	Marionette	INFO	Marionette enabled
+1668806603922	Marionette	INFO	Listening on port 59480
+WebDriver BiDi listening on ws://127.0.0.1:59475
+1668806604691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilehLpnY5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59475/devtools/browser/acdc5796-739b-42f0-a0e9-0b7a7a522f07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668806805583	Marionette	INFO	Stopped listening on port 59480
+1668806847562	geckodriver	INFO	Listening on 127.0.0.1:59573
+1668806850618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59574" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileOzFqHI"
+1668806851354	Marionette	INFO	Marionette enabled
+1668806851367	Marionette	INFO	Listening on port 59579
+WebDriver BiDi listening on ws://127.0.0.1:59574
+1668806851748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileOzFqHI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59574/devtools/browser/6891572b-428f-441d-aae9-7dd123d0fa56
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668806869631	Marionette	INFO	Stopped listening on port 59579
+1668807292117	geckodriver	INFO	Listening on 127.0.0.1:54096
+1668807295189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54097" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7Ty4CS"
+1668807295829	Marionette	INFO	Marionette enabled
+1668807295840	Marionette	INFO	Listening on port 54102
+WebDriver BiDi listening on ws://127.0.0.1:54097
+1668807296481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile7Ty4CS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54097/devtools/browser/0683ccc3-2f27-421b-b23b-62e782d2c146
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668807311664	Marionette	INFO	Stopped listening on port 54102
+1668807384958	geckodriver	INFO	Listening on 127.0.0.1:54184
+1668807388008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54185" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileHc88Tu"
+1668807388584	Marionette	INFO	Marionette enabled
+1668807388594	Marionette	INFO	Listening on port 54190
+WebDriver BiDi listening on ws://127.0.0.1:54185
+1668807389232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileHc88Tu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54185/devtools/browser/b9f51130-9b37-4afc-ac5a-92a1e88c4204
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668807404291	Marionette	INFO	Stopped listening on port 54190
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668807412142	geckodriver	INFO	Listening on 127.0.0.1:54265
+1668807415163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54266" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile234dQF"
+1668807415783	Marionette	INFO	Marionette enabled
+1668807415795	Marionette	INFO	Listening on port 54271
+WebDriver BiDi listening on ws://127.0.0.1:54266
+1668807416575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile234dQF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54266/devtools/browser/b6862806-56ad-4bbc-9485-9d1d968b62bc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668807431739	Marionette	INFO	Stopped listening on port 54271
+1668807867063	geckodriver	INFO	Listening on 127.0.0.1:54463
+1668807870101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54464" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileKQf4Nl"
+1668807870638	Marionette	INFO	Marionette enabled
+1668807870648	Marionette	INFO	Listening on port 54469
+WebDriver BiDi listening on ws://127.0.0.1:54464
+1668807871346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileKQf4Nl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54464/devtools/browser/8088178e-bb01-4ce3-a862-ad48703a786b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668807892943	Marionette	INFO	Stopped listening on port 54469
+1668807937582	geckodriver	INFO	Listening on 127.0.0.1:54541
+1668807940632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54542" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile1oD5sT"
+1668807941161	Marionette	INFO	Marionette enabled
+1668807941171	Marionette	INFO	Listening on port 54547
+WebDriver BiDi listening on ws://127.0.0.1:54542
+1668807941864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofile1oD5sT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54542/devtools/browser/47c3cc94-bf30-45bd-9b15-3cae9e07a6f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668807974579	Marionette	INFO	Stopped listening on port 54547
+1668808117898	geckodriver	INFO	Listening on 127.0.0.1:54651
+1668808120960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54652" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDI6tgn"
+1668808121618	Marionette	INFO	Marionette enabled
+1668808121629	Marionette	INFO	Listening on port 54657
+WebDriver BiDi listening on ws://127.0.0.1:54652
+1668808122272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileDI6tgn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54652/devtools/browser/78908dc1-4f79-435a-b8a8-7b188754befa
+1668808232632	Marionette	INFO	Stopped listening on port 54651668808232986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54734" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileLTO5iR"
+1668808233564	Marionette	INFO	Marionette enabled
+1668808233574	Marionette	INFO	Listening on port 54739
+WebDriver BiDi listening on ws://127.0.0.1:54734
+1668808234338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileLTO5iR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54734/devtools/browser/29a42df3-9dfa-41d3-bbc0-e42d46593983
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668808331514	Marionette	INFO	Stopped listening on port 54739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54836" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilek0KMJp"
+1668808321779	Marionette	INFO	Marionette enabled
+1668808321789	Marionette	INFO	Listening on port 54841
+WebDriver BiDi listening on ws://127.0.0.1:54836
+1668808322148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofilek0KMJp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54836/devtools/browser/7e36e460-80e0-4d46-91d7-08ca5d689c3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668808397817	Marionette	INFO	Stopped listening on port 54841
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668808578300	geckodriver	INFO	Listening on 127.0.0.1:54950
+1668808581357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54951" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileS6nIcp"
+1668808581969	Marionette	INFO	Marionette enabled
+1668808581982	Marionette	INFO	Listening on port 54956
+WebDriver BiDi listening on ws://127.0.0.1:54951
+1668808582646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileS6nIcp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54951/devtools/browser/dce0d28c-c311-4171-8bc3-dda8596f9b50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668808602513	Marionette	INFO	Stopped listening on port 54956
+1668808732013	geckodriver	INFO	Listening on 127.0.0.1:55061
+1668808735043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55062" "-no-remote" "-profile" "C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileRi8rrE"
+1668808735623	Marionette	INFO	Marionette enabled
+1668808735633	Marionette	INFO	Listening on port 55068
+WebDriver BiDi listening on ws://127.0.0.1:55062
+1668808736194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\str8_\\AppData\\Local\\Temp\\rust_mozprofileRi8rrE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55062/devtools/browser/a767eece-7e33-45b2-8fc7-1fc25bfab0bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1668808759865	Marionette	INFO	Stopped listening on port 55068

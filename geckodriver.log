@@ -10372,3 +10372,162 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
 1669968023072	Marionette	INFO	Stopped listening on port 51884
 [Parent 10968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669982884557	geckodriver	INFO	Listening on 127.0.0.1:52204
+1669982887606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofileP2MBfR"
+1669982888137	Marionette	INFO	Marionette enabled
+1669982888144	Marionette	INFO	Listening on port 52214
+Read port: 52214
+WebDriver BiDi listening on ws://127.0.0.1:52205
+1669982888391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofileP2MBfR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52205/devtools/browser/0c048178-56a0-40c1-8583-03ae3e539a6c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1669982912081	Marionette	INFO	Stopped listening on port 52214
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669982916874	geckodriver	INFO	Listening on 127.0.0.1:52286
+1669982919917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofilep5U7kM"
+1669982920339	Marionette	INFO	Marionette enabled
+1669982920346	Marionette	INFO	Listening on port 52296
+Read port: 52296
+WebDriver BiDi listening on ws://127.0.0.1:52287
+1669982920563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofilep5U7kM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52287/devtools/browser/d9c1bd46-96e1-4ea8-be83-3a0167919a2e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1669982940491	Marionette	INFO	Stopped listening on port 52296
+1669983012658	geckodriver	INFO	Listening on 127.0.0.1:52378
+1669983015726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "window-size=1600x1000" "--remote-debugging-port" "52379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofileUtMys3"
+*** You are running in headless mode.
+1669983016122	Marionette	INFO	Marionette enabled
+1669983016128	Marionette	INFO	Listening on port 52388
+Read port: 52388
+WebDriver BiDi listening on ws://127.0.0.1:52379
+1669983016248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofileUtMys3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52379/devtools/browser/446fb6ed-829a-4ca1-a3e5-a8f80480793d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1669983030788	Marionette	INFO	Stopped listening on port 52388
+1669983051199	geckodriver	INFO	Listening on 127.0.0.1:52473
+1669983054264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "window-size=1600x1000" "--remote-debugging-port" "52474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofilep9doiP"
+*** You are running in headless mode.
+1669983054651	Marionette	INFO	Marionette enabled
+1669983054656	Marionette	INFO	Listening on port 52483
+Read port: 52483
+WebDriver BiDi listening on ws://127.0.0.1:52474
+1669983054776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dusan\\AppData\\Local\\Temp\\rust_mozprofilep9doiP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52474/devtools/browser/bbe74f82-677d-4497-b6bd-6f1acdf74741
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.delfi.rs."
+1669983069538	Marionette	INFO	Stopped listening on port 52483

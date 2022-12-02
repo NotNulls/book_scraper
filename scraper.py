@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
@@ -14,9 +15,13 @@ import pandas as pd
 def search_a_book():
 
     title_search = input('Please insert search keyword: ')
-    print('Seeking results for: ', title_search)
+    print('Seeking. Please wait.')
 
-    driver = webdriver.Firefox()
+    option = Options()
+    option.headless = True
+    option.add_argument('window-size=1600x1000')
+
+    driver = webdriver.Firefox(options=option)
     driver.get('https://www.delfi.rs/')
     driver.maximize_window()
     driver.find_element(By.ID,'autocomplete-input').send_keys(title_search)
@@ -82,6 +87,6 @@ def search_a_book():
 
     driver.quit()
 
-search_a_book()
+    
 
 
